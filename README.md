@@ -10,7 +10,7 @@ The pipeline includes components for tiling, detecting, aggregating, and segment
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/CanopyRSAdmin/geodatasetTemp.git
+git clone https://github.com/CanopyRSAdmin/CanopyRSTemp.git
 cd CanopyRS
 ```
 
